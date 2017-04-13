@@ -16,7 +16,7 @@ namespace Painting_application
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Not_MS_Paint());
+            Application.Run(new Conversion());
         }
     }
 }

@@ -71,19 +71,10 @@
     <Compile Include="Conversion.Designer.cs">
       <DependentUpon>Conversion.cs</DependentUpon>
     </Compile>
-    <Compile Include="Not MS Paint.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Not MS Paint.Designer.cs">
-      <DependentUpon>Not MS Paint.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Conversion.resx">
       <DependentUpon>Conversion.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Not MS Paint.resx">
-      <DependentUpon>Not MS Paint.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
